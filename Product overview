@@ -1,0 +1,43 @@
+1. Product Overview
+Career Roadmap is an AI-powered academic planner that generates personalized course pathways aligned with students' career aspirations, helping them stay on track for co-ops, skill-building, and job readiness.
+
+2. Goals & Objectives
+Simplify academic planning
+
+Align course selections with career goals
+
+Increase co-op/job placement rates
+
+Improve student satisfaction and confidence
+
+3. Key Features
+Feature	Description
+🔍 AI Career Roadmap	Auto-generates a personalized plan aligned with a student's career goals
+🧠 Course Recommendations	Suggests courses based on co-op/job interests, skills, and degree plan
+⏰ Seat Availability Tracking	Real-time updates on open/closed course registrations
+🌐 External Learning Resources	Links to Coursera, LinkedIn Learning, etc. based on career path
+📣 Smart Alerts & Nudges	Reminders for course registrations, prerequisites, and deadlines
+📊 Career Readiness Tracker	Progress dashboard to track alignment with target jobs
+🔁 Feedback Loop	Survey data integration for roadmap tuning and course satisfaction
+♿ Accessibility	ADA-compliant design for differently-abled users
+
+4. Assumptions
+Students are proactive and career-driven
+
+They are open to using external platforms
+
+Notifications and UI simplicity drive action
+
+5. Success Metrics
+Metric Type	Metric
+North Star	% of students completing ≥85% of their roadmap each semester
+Engagement	Page views, feature drop rate, roadmap generation rate
+Outcomes	Job/co-op placement rate after using roadmap
+Satisfaction	CSAT score (on planning ease, roadmap clarity, and career alignment)
+
+6. Future Enhancements
+Integration with faculty advising systems
+
+Skill gap detection & certification paths
+
+Peer-shared roadmaps for inspiration
